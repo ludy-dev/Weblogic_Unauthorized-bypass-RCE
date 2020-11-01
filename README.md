@@ -24,9 +24,13 @@ Test script checks response data with pcre.
     Oracle Weblogic Auth Bypass RCE(CVE-2020–14882).py <Target IP> <port>
 # Affected Version 
 WebLogic 10.3.6.0.0
+
 WebLogic 12.1.3.0.0
+
 WebLogic 12.2.1.3.0
+
 WebLogic 12.2.1.4.0
+
 WebLogic 14.1.1.0.0
 
 # PoC 
